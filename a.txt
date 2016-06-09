@@ -10,5 +10,7 @@ git add a.txt
 
 git commit -m""
 
+git push -u origin//同步到githup
+
 git status
 
