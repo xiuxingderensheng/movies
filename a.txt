@@ -1,0 +1,14 @@
+打开 git bash
+
+cd '/e/githup resp/movies'
+
+git init movies
+
+新建a.txt文件
+
+git add a.txt
+
+git commit -m""
+
+git status
+
